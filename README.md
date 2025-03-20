@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o Gabriel</h1>
+<h1 align="center">Olá 👋, eu sou o Mesorah</h1>
 <h3 align="center">Estudante de programação focado em Backend e Web Development</h3>
 
 <div align="center">
@@ -22,8 +22,8 @@
 ### 📈 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mesorah&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesorah&layout=compact&theme=radical"/>
 </div>
 
 ---
