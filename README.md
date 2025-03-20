@@ -23,7 +23,7 @@ Plataforma de e-commerce com autenticação, carrinho de compras e controle de e
 
 ---
 
-### 📦 [Sistema de Controle de Estoque](https://github.com/Mesorah/Controle-de-estoque
+### 📦 [Sistema de Controle de Estoque](https://github.com/Mesorah/Controle-de-estoque)
 Sistema de cadastro de produtos com controle de entrada, saída e relatório de estoque.  
 **Tecnologias:** Django, Sessions, HTML, CSS, JS
 
