@@ -17,13 +17,13 @@ Desenvolvedor focado em construir soluções com Python, Django e tecnologias we
 
 ## 📌 Principais Projetos
 
-### 🛒 [E-commerce](https://github.com/seu-usuario/E-COMMERCE)
+### 🛒 [E-commerce](https://github.com/Mesorah/E-COMMERCE)
 Plataforma de e-commerce com autenticação, carrinho de compras e controle de estoque.  
 **Tecnologias:** Django, Sessions, HTML, CSS, JS
 
 ---
 
-### 📦 [Sistema de Controle de Estoque](https://github.com/seu-usuario/Controle-de-estoque
+### 📦 [Sistema de Controle de Estoque](https://github.com/Mesorah/Controle-de-estoque
 Sistema de cadastro de produtos com controle de entrada, saída e relatório de estoque.  
 **Tecnologias:** Django, Sessions, HTML, CSS, JS
 
