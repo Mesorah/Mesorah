@@ -1,33 +1,43 @@
-<h1 align="center">Olá 👋, eu sou o Mesorah</h1>
-<h3 align="center">Estudante de programação focado em Backend e Web Development</h3>
+# 👨‍💻 Mesorah | Desenvolvedor Backend
+
+Desenvolvedor focado em construir soluções com Python, Django e tecnologias web.
+
+---
+
+## ⚙️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Principais Projetos
+
+### 🛒 [E-commerce](https://github.com/seu-usuario/E-COMMERCE)
+Plataforma de e-commerce com autenticação, carrinho de compras e controle de estoque.  
+**Tecnologias:** Django, Sessions, HTML, CSS, JS
+
+---
+
+### 📦 [Sistema de Controle de Estoque](https://github.com/seu-usuario/Controle-de-estoque
+Sistema de cadastro de produtos com controle de entrada, saída e relatório de estoque.  
+**Tecnologias:** Django, Sessions, HTML, CSS, JS
+
+---
+
+## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;Python+%7C+Django+%7C+JavaScript;Apaixonado+por+código+limpo+e+projetos+open+source" alt="Typing SVG" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mesorah&show_icons=true&theme=default&count_private=true&hide=issues" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesorah&layout=compact&theme=default" />
 </div>
 
 ---
 
-### 🛠️ Tecnologias que uso
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-</div>
+## 📬 Contato
 
----
-
-### 📈 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mesorah&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesorah&layout=compact&theme=radical"/>
-</div>
-
----
-
-### ✨ Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK/)
-[![Portfólio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-PORTFOLIO.vercel.app/)
+📎 Discord: **sabu0487**
