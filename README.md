@@ -25,7 +25,7 @@ Plataforma de e-commerce com autenticação, carrinho de compras e controle de e
 
 ### 🗽 [Learn Rank](https://github.com/Mesorah/learnrank)  
 Plataforma de estudos com sistema de níveis, progresso e ranking, incluindo cadastro, login/logout, recuperação de senha, perfis com avatar, XP e dashboard interativo. API pronta para integração futura com front-end em React.
-**Tecnologias:** Django, Django REST Framework, Sessions, CBVs, TDD, HTML, CSS, JavaScript
+**Tecnologias:**: Django, Django REST Framework, Sessions, CBVs, TDD, HTML, CSS, JavaScript
 
 ---
 
